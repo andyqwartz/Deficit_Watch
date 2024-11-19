@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Deficit_Watch/static/css/main.735b1f6f.css",
+    "main.js": "/Deficit_Watch/static/js/main.a32d7688.js",
+    "index.html": "/Deficit_Watch/index.html",
+    "main.735b1f6f.css.map": "/Deficit_Watch/static/css/main.735b1f6f.css.map",
+    "main.a32d7688.js.map": "/Deficit_Watch/static/js/main.a32d7688.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.735b1f6f.css",
+    "static/js/main.a32d7688.js"
+  ]
+}
